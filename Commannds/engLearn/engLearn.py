@@ -1,3 +1,4 @@
+
 import pytesseract
 
 # Для считывания PDF
